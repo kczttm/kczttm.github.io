@@ -83,7 +83,7 @@ author:
   name             : "Chuizheng Kong"
   avatar           : "profile.png"
   bio              : "PhD Student at Georgia Tech"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/kczttm"
+  github           : "kczttm"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kongc2/"
+  linkedin         : "kongc2"
   orcid            :
   pinterest        :
   soundcloud       :
