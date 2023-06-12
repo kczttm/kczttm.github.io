@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Robotics PhD student working with Prof. [Shreyas Kousik](https://www.shreyaskousik.com){:target="_blank"} at the Safe Robotics Lab. I'm interested in manipulations using robot arms and specifically in the area of ordinary home tasks such as cooking and cleaning. These tasks are challenging due to uncertainties that sometimes require a sense of touch on top of the commonly used vision. While one can always design specialized tools for each individual task, such a short cut might defeat the initial purpose of inventing the [first robot arm](https://patentimages.storage.googleapis.com/6a/78/93/6b7927856c9bee/US2988237.pdf){:target="_blank"} as a "general purpose machine." During my time as a PhD student, I hope to solve problems in this area with both software and hardware methods.    
+Welcome! I'm a Robotics PhD student working with Prof. [Shreyas Kousik](https://www.shreyaskousik.com){:target="_blank"} in the Safe Robotics Lab at Gatech. I'm interested in robot manipulations in the area of ordinary home tasks such as cooking and cleaning. These tasks are challenging due to uncertainties that sometimes require a sense of touch on top of the commonly used vision. 
 
-Prior to joining Georgia Tech, I studied at Rensselaer Polytechnic Institute where I obtained a B.S. in Mechanical Engineering and M.S. in Electrical Engineering. My master thesis concerns a patent pending mechatronics device that provides a more versitile and cost-efficient solution to small-part manipulations during autonomous robot assembly. 
+While one can always design specialized tools for each individual task, such a short cut might defeat the initial purpose of robot arm as a "general purpose machine" (according to the patent of the first robot arm - [Unimate](https://patentimages.storage.googleapis.com/6a/78/93/6b7927856c9bee/US2988237.pdf){:target="_blank"}). During my time as a PhD student, I hope to solve problems in this area by providing both software and hardware solutions.    
 
-A data-driven personal website
+Prior to joining Georgia Tech, I studied at Rensselaer Polytechnic Institute where I obtained B.S. Mechanical Engineering and M.S. Electrical Engineering. My master thesis involves the design and control of a mechatronics device that provides a versatile and cost-efficient way to re-orient small-part during autonomous robot assembly. This work was done in collaboration with [Mitsubishi Electric Research Lab](https://www.merl.com){:target="_blanck"}. A patent has been filed, and the thesis can be found [here](files/Kong_MS_Thesis.pdf){:target="_blanck"}. 
+
+Recent News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[2023 June] I presented a paper at ACC2023 
+[2023 May] I graduated and obtained my master degree from Rensselaer Polytechnic Institute.
+[2023 March] I successfully defended my master thesis titled: [Design and Control of A Nonprehensile Impulse Manipulator](files/Kong_MS_Thesis.pdf){:target="_blanck"}.
