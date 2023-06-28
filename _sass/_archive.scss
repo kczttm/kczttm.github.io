@@ -171,7 +171,7 @@
     @include gallery(4 of 12);
 
     .feature__item-teaser {
-      max-height: 100px;
+      max-height: 200px;
       overflow: hidden;
     }
   }
@@ -186,11 +186,11 @@
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(5 of 12);
+        @include span(3.5 of 12);
       }
 
       .archive__item-body {
-        @include span(7 of 12 last);
+        @include span(8.5 of 12 last);
         @include prefix(0.5 of 12);
         @include suffix(1 of 12);
       }
