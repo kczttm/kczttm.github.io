@@ -3,10 +3,14 @@ layout: splash
 title: "Projects"
 permalink: /projects/
 author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: topbar_image.jpg
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /images/thumb_nail_thumper_robot.jpg
+  - image_path: thumb_nail_thumper_robot.jpg
     alt: "Nonprehensile Impulse Manipulator"
     title: "Design and Control of A Nonprehensile Impulse Manipulator"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
