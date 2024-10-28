@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a first year Robotics PhD student working with Prof. [Shreyas Kousik](https://www.shreyaskousik.com){:target="_blank"} in the Safe Robotics Lab at Gatech. I'm interested in robot manipulations in the area of ordinary home tasks. 
+Hello! I'm a Robotics PhD student working with Prof. [Shreyas Kousik](https://www.shreyaskousik.com){:target="_blank"} in the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/){:target-"_blank"} at Gatech. I'm interested in safe robot manipulations in critical scenerios or complex environments. 
 
-Prior to joining Georgia Tech, I studied at Rensselaer Polytechnic Institute where I obtained B.S. Mechanical Engineering (project advisor: Prof. [Sergio Pequito](https://www.spequito.com){:target="_blank"}) and M.S. Electrical Engineering (thesis advisor: Prof. [John T. Wen](https://john-wen.com){:target="_blank"}). My master thesis involves the design and control of a mechatronics device that provides a versatile and cost-efficient way to re-orient small-part during autonomous robot assembly line. This work was done in collaboration with [Mitsubishi Electric Research Lab](https://www.merl.com){:target="_blanck"}. A patent was filed, and the thesis can be found [here](../files/Kong_MS_Thesis.pdf){:target="_blanck"}. 
+Prior to joining Georgia Tech, I studied at Rensselaer Polytechnic Institute where I obtained B.S. Mechanical Engineering (project advisor: Prof. [Sergio Pequito](https://www.spequito.com){:target="_blank"}) and M.S. Electrical Engineering (thesis advisor: Prof. [John T. Wen](https://john-wen.com){:target="_blank"}). My master thesis involves the design and control of a mechatronics device that provides a versatile and cost-efficient way to re-orient small-part during autonomous robot assembly line. This work was done in collaboration with [Mitsubishi Electric Research Lab](https://www.merl.com){:target="_blanck"}. A [patent](https://patents.google.com/patent/US20240261962A1/en){:target="_blank"} for this device was granted, and the thesis can be found [here](../files/Kong_MS_Thesis.pdf){:target="_blanck"}. 
 
 Research Interest
 ======
 
-Home tasks such as washing dishes and handling food are challenging due to uncertainties that sometimes require a sense of touch on top of the commonly used vision. While one can always design specialized tools for each individual task, such a short cut might defeat the initial purpose of robot arm as a "general purpose machine" (according to the patent of the first robot arm - [Unimate](https://patentimages.storage.googleapis.com/6a/78/93/6b7927856c9bee/US2988237.pdf){:target="_blank"}). During my time as a PhD student, I hope to leverage design tools and control methods from my mechanical and electrical background to solve problems in this area.    
+Most robots, unlike human or animal,  Ordinary tasks such as washing dishes and handling food are challenging due to uncertainties that requires beyond commonly used vision.   
 
 
 Recent News
