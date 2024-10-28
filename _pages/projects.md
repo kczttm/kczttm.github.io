@@ -17,6 +17,7 @@ feature_row_farmhand:
     url: "https://saferoboticslab.me.gatech.edu/research/towards-robotic-pollination/"
     btn_label: "project page"
     btn_class: "btn--primary"
+    date: 2024-09-16
 
 feature_row_parc:
   - image_path: thumb_nail_parc.gif
@@ -68,5 +69,5 @@ feature_row_dobot:
 
 {% include feature_row id="feature_row_tormach" type="left" %}
 
-{% include feature_row id="feature_fow_dobot" type="left" %}
+{% include feature_row id="feature_row_dobot" type="left" %}
 
