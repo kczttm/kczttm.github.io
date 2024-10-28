@@ -39,7 +39,7 @@ feature_row2:
 #     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: thumb_nail_parc.gif
+  - image_path: thumb_nail_dobot.png
     alt: "PARC Drifting Image"
     title: "Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation"
     excerpt: 'The algorithm seeks to compute trajectory plans for which a robot is guaranteed to reach a goal and to avoid obstacles in the specific near danger case, also known as a narrow gap, where the agent starts near the goal, but must navigate through tight obstacles that block its path.'
