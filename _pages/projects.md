@@ -9,7 +9,7 @@ header:
   overlay_image: topbar_image.jpg
   caption: "Image credit: [**Greg Dunn**](https://www.gregadunn.com)"
     
-feature_row5:
+feature_row:
   - image_path: thumb_nail_farmhand.gif
     alt: "Strawberry Pollination Robot"
     title: "Towards Closing the Loop in Robotic Pollination for Indoor Farming via Autonomous Microscopic Inspection"
@@ -18,7 +18,7 @@ feature_row5:
     btn_label: "project page"
     btn_class: "btn--primary"
 
-feature_row4:
+feature_row2:
   - image_path: thumb_nail_parc.gif
     alt: "PARC Drifting Image"
     title: "Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation"
@@ -27,7 +27,7 @@ feature_row4:
     btn_label: "project page"
     btn_class: "btn--primary"
 
-feature_row:
+feature_row3:
   - image_path: thumb_nail_parc.gif
     alt: "Nonprehensile Impulse Manipulator"
     title: "Design and Control of A Nonprehensile Impulse Manipulator"
@@ -39,7 +39,7 @@ feature_row:
     btn_label: "paper link"
     btn_class: "btn--primary"
 
-feature_row2:
+feature_row4:
   - image_path: thumb_nail_tormach.jpg
     alt: "Robot arm with the part to be cutted"
     title: "Robot Subtractive Manufacturing with A High-Speed Spindle"
@@ -48,7 +48,7 @@ feature_row2:
     btn_label: "code"
     btn_class: "btn--primary"
   
-feature_row3:
+feature_row5:
   - image_path: thumb_nail_dobot.png
     alt: "Dobot Image"
     title: "Dobot ROS Driver with pySerial"
@@ -60,12 +60,13 @@ feature_row3:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_fow5" type="left" %}
-
-{% include feature_row id="feature_fow4" type="left" %}
-
 {% include feature_row type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_fow4" type="left" %}
+
+{% include feature_row id="feature_fow5" type="left" %}
+
