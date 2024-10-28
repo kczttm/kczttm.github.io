@@ -35,6 +35,12 @@
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
 
+          {% if f.date %}
+            <p class="page__meta">
+              <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ f.date | date: site.date_format }}
+            </p>
+          {% endif %}
+
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
@@ -43,11 +49,6 @@
 
           {% if f.url %}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-          {% endif %}
-
-          {% if f.date %}
-            <p class="archive__item-meta">{{ f.date | date: '%B %d, %Y' }}</p>
-            </p>
           {% endif %}
          
         </div>
