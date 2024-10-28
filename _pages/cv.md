@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -13,5 +13,5 @@ header:
 ---
 <!-- <iframe src="https://belovanna.github.io/assets/download/sample.pdf" width="100%" height="600px"></iframe> -->
 
-<embed src="../files/Kong_Resume.pdf" width="100%" height="1000px" 
+<embed src="../files/Kong_Resume.pdf" width="500" height="375" 
  type="application/pdf">
