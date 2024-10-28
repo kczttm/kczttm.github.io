@@ -46,7 +46,7 @@ feature_row_tormach:
   - image_path: thumb_nail_tormach.gif
     alt: "Robot arm with the part to be cutted"
     title: "Robot Subtractive Manufacturing with A High-Speed Spindle"
-    date: 2022-04-23
+    date: 2022-12-15
     excerpt: 'This is a python library designed for subtractive manufacturing applications using the Tormach ZA6 robotic arm, integrated with a high-speed spindle and an ATI Force/Torque sensor. The library offers functions for calibrating the workspace, assessing shape feasibility by checking for singularities and joint limits, and determining optimal part placement. It includes code for generating Cartesian path profiles and solving for joint angle trajectories using quadratic programming, enabling precise, closed-loop force control and efficient path planning for manufacturing tasks.'
     url: "https://github.com/kczttm/tormach_za6_subtractive_mftg"
     btn_label: "code"
