@@ -29,16 +29,16 @@ feature_row2:
     btn_label: "code"
     btn_class: "btn--primary"
   
-feature_row3:
-  - image_path: thumb_nail_dobot.png
-    alt: "Dobot Image"
-    title: "Dobot ROS Driver with pySerial"
-    excerpt: 'This project involved a low level ROS1 driver for Dobot v1.0. The functionality includes the reading and controlling of joint angles, forward kinematics, inverse kinematics, integration with usb webcam.'
-    url: "https://github.com/kczttm/ROS_dobot_driver"
-    btn_label: "code"
-    btn_class: "btn--primary"
+# feature_row3:
+#   - image_path: thumb_nail_dobot.png
+#     alt: "Dobot Image"
+#     title: "Dobot ROS Driver with pySerial"
+#     excerpt: 'This project involved a low level ROS1 driver for Dobot v1.0. The functionality includes the reading and controlling of joint angles, forward kinematics, inverse kinematics, integration with usb webcam.'
+#     url: "https://github.com/kczttm/ROS_dobot_driver"
+#     btn_label: "code"
+#     btn_class: "btn--primary"
 
-feature_row4:
+feature_row3:
   - image_path: thumb_nail_parc.gif
     alt: "PARC Drifting Image"
     title: "Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation"
@@ -59,7 +59,7 @@ feature_row5:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_fow2" type="left" %}
+{% include feature_row id="feature_fow3" type="left" %}
 
 {% include feature_row id="feature_fow4" type="left" %}
 
