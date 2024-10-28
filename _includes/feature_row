@@ -37,7 +37,7 @@
 
           {% if f.date %}
             <p class="page__meta">
-              <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ f.date | date: site.date_format }}
+              <i class="fas fa-calendar-alt" aria-hidden="true"></i> {{ f.date | date: site.date_format }}
             </p>
           {% endif %}
 
