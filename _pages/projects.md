@@ -9,7 +9,7 @@ header:
   overlay_image: topbar_image.jpg
   caption: "Image credit: [**Greg Dunn**](https://www.gregadunn.com)"
     
-feature_row:
+feature_row_farmhand:
   - image_path: thumb_nail_farmhand.gif
     alt: "Strawberry Pollination Robot"
     title: "Towards Closing the Loop in Robotic Pollination for Indoor Farming via Autonomous Microscopic Inspection"
@@ -18,7 +18,7 @@ feature_row:
     btn_label: "project page"
     btn_class: "btn--primary"
 
-feature_row2:
+feature_row_parc:
   - image_path: thumb_nail_parc.gif
     alt: "PARC Drifting Image"
     title: "Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation"
@@ -27,8 +27,8 @@ feature_row2:
     btn_label: "project page"
     btn_class: "btn--primary"
 
-feature_row3:
-  - image_path: thumb_nail_parc.gif
+feature_row_thumper:
+  - image_path: thumb_nail_thumper_robot.jpg
     alt: "Nonprehensile Impulse Manipulator"
     title: "Design and Control of A Nonprehensile Impulse Manipulator"
     excerpt: 'In modern manufacturing industries, autonomously feeding unsorted small components such as bolts and nuts into ongoing robot assembly processes has been a challenging topic for years because most commonly used devices, albeit possess a great processing speed, are not versatile enough to economically adapt to any new parts. In this project, we built a novel part feeder that uses impulse shocks to flip parts into poses more suitable for grasping.' 
@@ -39,7 +39,7 @@ feature_row3:
     btn_label: "paper link"
     btn_class: "btn--primary"
 
-feature_row4:
+feature_row_tormach:
   - image_path: thumb_nail_tormach.jpg
     alt: "Robot arm with the part to be cutted"
     title: "Robot Subtractive Manufacturing with A High-Speed Spindle"
@@ -48,7 +48,7 @@ feature_row4:
     btn_label: "code"
     btn_class: "btn--primary"
   
-feature_row5:
+feature_row_dobot:
   - image_path: thumb_nail_dobot.png
     alt: "Dobot Image"
     title: "Dobot ROS Driver with pySerial"
@@ -60,13 +60,13 @@ feature_row5:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="left" %}
+{% include feature_row id="feature_row_farmhand" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row_parc" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row_thumper" type="left" %}
 
-{% include feature_row id="feature_fow4" type="left" %}
+{% include feature_row id="feature_row_tormach" type="left" %}
 
-{% include feature_row id="feature_fow5" type="left" %}
+{% include feature_row id="feature_fow_dobot" type="left" %}
 
