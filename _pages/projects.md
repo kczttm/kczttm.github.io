@@ -8,6 +8,25 @@ header:
   overlay_filter: "0.5"
   overlay_image: topbar_image.jpg
   caption: "Image credit: [**Greg Dunn**](https://www.gregadunn.com)"
+    
+feature_row5:
+  - image_path: thumb_nail_farmhand.gif
+    alt: "Strawberry Pollination Robot"
+    title: "Towards Closing the Loop in Robotic Pollination for Indoor Farming via Autonomous Microscopic Inspection"
+    excerpt: 'This work proposes a novel robotic system for indoor farming. The proposed hardware combines a 7-degree-of-freedom (DOF) manipulator arm with a custom end-effector, comprised of an endoscope camera, a 2-DOF microscope subsystem, and a custom vibrating pollination tool; this is paired with algorithms to detect and estimate the pose of strawberry flowers, navigate to each flower, pollinate using the tool, and inspect with the microscope.'
+    url: "https://saferoboticslab.me.gatech.edu/research/towards-robotic-pollination/"
+    btn_label: "project page"
+    btn_class: "btn--primary"
+
+feature_row4:
+  - image_path: thumb_nail_parc.gif
+    alt: "PARC Drifting Image"
+    title: "Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation"
+    excerpt: 'The algorithm seeks to compute trajectory plans for which a robot is guaranteed to reach a goal and to avoid obstacles in the specific near danger case, also known as a narrow gap, where the agent starts near the goal, but must navigate through tight obstacles that block its path.'
+    url: "https://saferoboticslab.me.gatech.edu/research/parc/"
+    btn_label: "project page"
+    btn_class: "btn--primary"
+
 feature_row:
   - image_path: thumb_nail_thumper_robot.jpg
     alt: "Nonprehensile Impulse Manipulator"
@@ -36,24 +55,6 @@ feature_row3:
     excerpt: 'This project involved a low level ROS1 driver for Dobot v1.0. The functionality includes the reading and controlling of joint angles, forward kinematics, inverse kinematics, integration with usb webcam.'
     url: "https://github.com/kczttm/ROS_dobot_driver"
     btn_label: "code"
-    btn_class: "btn--primary"
-
-feature_row4:
-  - image_path: thumb_nail_parc.gif
-    alt: "PARC Drifting Image"
-    title: "Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation"
-    excerpt: 'The algorithm seeks to compute trajectory plans for which a robot is guaranteed to reach a goal and to avoid obstacles in the specific near danger case, also known as a narrow gap, where the agent starts near the goal, but must navigate through tight obstacles that block its path.'
-    url: "https://saferoboticslab.me.gatech.edu/research/parc/"
-    btn_label: "project page"
-    btn_class: "btn--primary"
-    
-feature_row5:
-  - image_path: thumb_nail_farmhand.gif
-    alt: "Strawberry Pollination Robot"
-    title: "Towards Closing the Loop in Robotic Pollination for Indoor Farming via Autonomous Microscopic Inspection"
-    excerpt: 'This work proposes a novel robotic system for indoor farming. The proposed hardware combines a 7-degree-of-freedom (DOF) manipulator arm with a custom end-effector, comprised of an endoscope camera, a 2-DOF microscope subsystem, and a custom vibrating pollination tool; this is paired with algorithms to detect and estimate the pose of strawberry flowers, navigate to each flower, pollinate using the tool, and inspect with the microscope.'
-    url: "https://saferoboticslab.me.gatech.edu/research/towards-robotic-pollination/"
-    btn_label: "project page"
     btn_class: "btn--primary"
 ---
 
