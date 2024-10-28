@@ -28,7 +28,7 @@ feature_row_parc:
     btn_class: "btn--primary"
 
 feature_row_thumper:
-  - image_path: thumb_nail_thumper_robot.jpg
+  - image_path: thumb_nail_thumper_robot.gif
     alt: "Nonprehensile Impulse Manipulator"
     title: "Design and Control of A Nonprehensile Impulse Manipulator"
     excerpt: 'In modern manufacturing industries, autonomously feeding unsorted small components such as bolts and nuts into ongoing robot assembly processes has been a challenging topic for years because most commonly used devices, albeit possess a great processing speed, are not versatile enough to economically adapt to any new parts. In this project, we built a novel part feeder that uses impulse shocks to flip parts into poses more suitable for grasping.' 
@@ -40,7 +40,7 @@ feature_row_thumper:
     btn_class: "btn--primary"
 
 feature_row_tormach:
-  - image_path: thumb_nail_tormach.jpg
+  - image_path: thumb_nail_tormach.gif
     alt: "Robot arm with the part to be cutted"
     title: "Robot Subtractive Manufacturing with A High-Speed Spindle"
     excerpt: 'This is a python library designed for subtractive manufacturing applications using the Tormach ZA6 robotic arm, integrated with a high-speed spindle and an ATI Force/Torque sensor. The library offers functions for calibrating the workspace, assessing shape feasibility by checking for singularities and joint limits, and determining optimal part placement. It includes code for generating Cartesian path profiles and solving for joint angle trajectories using quadratic programming, enabling precise, closed-loop force control and efficient path planning for manufacturing tasks.'
