@@ -11,7 +11,7 @@ header:
   overlay_image: topbar_image.jpg
   caption: "Image credit: [**Greg Dunn**](https://www.gregadunn.com)"
 ---
-<!-- <iframe src="https://belovanna.github.io/assets/download/sample.pdf" width="100%" height="600px"></iframe> -->
+<iframe src="../files/Kong_Resume.pdf" width="500" height="648"></iframe>
 
-<embed src="../files/Kong_Resume.pdf" width="500" height="648" 
- type="application/pdf">
+<!-- <embed src="../files/Kong_Resume.pdf" width="500" height="648" 
+ type="application/pdf"> -->
