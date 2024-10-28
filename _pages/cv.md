@@ -11,4 +11,4 @@ header:
   overlay_image: topbar_image.jpg
   caption: "Image credit: [**Greg Dunn**](https://www.gregadunn.com)"
 ---
-<embed src="https://belovanna.github.io/assets/download/sample.pdf" type="application/pdf" />
+<iframe src="https://belovanna.github.io/assets/download/sample.pdf" width="100%" height="600px"></iframe>
