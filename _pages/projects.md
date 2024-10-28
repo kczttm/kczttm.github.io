@@ -28,7 +28,7 @@ feature_row4:
     btn_class: "btn--primary"
 
 feature_row:
-  - image_path: thumb_nail_thumper_robot.jpg
+  - image_path: thumb_nail_parc.gif
     alt: "Nonprehensile Impulse Manipulator"
     title: "Design and Control of A Nonprehensile Impulse Manipulator"
     excerpt: 'In modern manufacturing industries, autonomously feeding unsorted small components such as bolts and nuts into ongoing robot assembly processes has been a challenging topic for years because most commonly used devices, albeit possess a great processing speed, are not versatile enough to economically adapt to any new parts. In this project, we built a novel part feeder that uses impulse shocks to flip parts into poses more suitable for grasping.' 
