@@ -18,9 +18,10 @@ Research Interest
 
 Most robots, unlike humans or animals, are not equipped with compliant exterior structures such as skin or soft tissues. Consequently, robots are typically very sensitive to collisions with their environment, other robots, and even themselves. While current safety criteria in both research and industry revolve around collision avoidance, I believe we can leverage the accuracy and repeatability of robot arms to engage in safe contact. 
 
+I'm currently exploring whether an effective partnership between reachability-based planning algorithms and innovative hardware design and sensing could enable robots to operate autonomously with safety guarantees in critical scenarios and complex environments.
+
 In addition, my background in mechanical engineering has given me a strong passion for rigid body dynamics. My wish is to create a motion planning algorithm that enables robots to operate near their performance limits while ensuring safety guarantees.
 
-I'm currently exploring whether an effective partnership between reachability-based planning algorithms and innovative hardware design and sensing could enable robots to operate autonomously with safety guarantees in critical scenarios and complex environments.
 
 Recent News
 ======
