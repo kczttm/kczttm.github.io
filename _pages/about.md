@@ -25,9 +25,9 @@ In addition, my background in mechanical engineering has given me a strong passi
 
 Recent News
 ======
-[2025 April] Our newly built bi-manual [dual-KINOVA3](https://saferoboticslab.me.gatech.edu/robots/) robot is fully assembled and live. Its digital twin built with Robosuite v1.5 is available [here](https://github.com/kczttm/robosuite) with Meta Quest3 Dual-arm teleoperation supported.
+[2025 April] Our newly built bi-manual [dual-KINOVA3](https://saferoboticslab.me.gatech.edu/robots/){:target="_blank"} robot is fully assembled and live. Its digital twin built with Robosuite v1.5 is available [here](https://github.com/kczttm/robosuite){:target="_blank"} with Meta Quest3 Dual-arm teleoperation supported.
 
-[2025 January] Our work [Towards Closing the Loop in Robotic Pollination for Indoor Farming via Autonomous Microscopic Inspection](https://saferoboticslab.me.gatech.edu/research/towards-robotic-pollination/) has been accepted by ICRA 2025 happening in Atlanta GA!
+[2025 January] Our work [Towards Closing the Loop in Robotic Pollination for Indoor Farming via Autonomous Microscopic Inspection](https://saferoboticslab.me.gatech.edu/research/towards-robotic-pollination/){:target="_blank"} has been accepted by ICRA 2025 happening in Atlanta GA!
 
 [2024 September] We posted our recent [paper](https://arxiv.org/abs/2409.12311){:target="_blank"} on autonoumus indoor stawberry pollination on Arxiv.
 
