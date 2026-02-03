@@ -8,6 +8,17 @@ header:
   overlay_filter: "0.5"
   overlay_image: topbar_image.jpg
   caption: "Image credit: [**Greg Dunn**](https://www.gregadunn.com)"
+
+
+feature_row_sew_mimic:
+  - image_path: thumb_nail_sew_mimic.gif
+    alt: "Fast Upper Body Retargeting"
+    title: "A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation"
+    date: 2025-07-08
+    excerpt: 'I created an analytical method for exact human-robot bimanual pose retargeting that is computationally efficient (9000 Hz) and provabally accurate on any bimanial humanoid robots. The proposed method formulates the retargeting problem as an orientation alignment problem where the key idea is align a robot arm to a human"s upper and lower arm orientations, as identified from shoulder, elbow, and wrist (SEW) keypoints; hence, the method is called SEW-Mimic.'
+    url: "https://sew-mimic.com"
+    btn_label: "project page"
+    btn_class: "btn--primary" 
     
 feature_row_farmhand:
   - image_path: thumb_nail_farmhand.gif
@@ -64,6 +75,8 @@ feature_row_dobot:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row_sew_mimic" type="left" %}
 
 {% include feature_row id="feature_row_farmhand" type="left" %}
 
